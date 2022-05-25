@@ -1,1 +1,2 @@
-My first readme
+Description : My first training in GIT.
+Author : King Jide
